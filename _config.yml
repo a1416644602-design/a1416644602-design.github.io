@@ -21,23 +21,23 @@ google_ad_client:
 post_limit: 5
 
 
-title : Helium Jekyll
-tagline: Bootstrap 4 UI kit for jekyll
-author : 
+title : Jett Ai Studio
+tagline: Created by Cecilia
+author : Cecilia 
   name : Antonio Trento
   site: https://lantoniotrento.github.io
-  description : I&#39;m a web master interested in communication applied to web marketing.
+  description : Here is the Jett Ai Official Website
   image : social-image.png
-  email : lantoniotrento@gmail.com
-  github : antoniotrento
-  twitter : lantoniotrento
-  facebook: lantoniotrento
-  linkedin: antoniotrento
-  instagram: lantoniotrento
-  pinterest: antoniotrento
+  email : a1416644602@gmail.com
+  github : a1416644602-design
+  twitter : none
+  facebook: none
+  linkedin: none
+  instagram: none
+  pinterest: none
   feedburner : 
 
-twitter_username: lantoniotrento
+twitter_username: none
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
 # Most places will/should use BASE_PATH to make the urls
